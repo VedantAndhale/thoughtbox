@@ -219,6 +219,8 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
+  - source: github:quartz-community/canvas-page
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
