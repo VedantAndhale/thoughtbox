@@ -73,6 +73,25 @@ plugins:
     layout:
       position: right
       priority: 30
+  - source: github:VingGit/root-index-panels
+    enabled: true
+    options:
+      layout: cards
+      showDescription: true
+      showDocCount: true
+      showTags: true
+      tagCount: 3
+      sort: alphabetical
+      excludeDirs: []
+      descriptionFallback: ""
+      defaultIcon: ""
+      defaultAccent: theme
+      accents: {}
+      replaceExplorer: true
+    layout:
+      position: left
+      priority: 40
+    order: 50
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
