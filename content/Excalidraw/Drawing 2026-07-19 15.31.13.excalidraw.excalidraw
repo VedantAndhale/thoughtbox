@@ -7,9 +7,9 @@
 			"id": "5OU7E1tF",
 			"type": "rectangle",
 			"x": -67.43795871495045,
-			"y": -89.43748420126391,
+			"y": -34.49021857626391,
 			"width": 152.23932382394574,
-			"height": 116.47091697339451,
+			"height": 61.52365134839451,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -25,11 +25,11 @@
 				"type": 3
 			},
 			"seed": 1859699377,
-			"version": 93,
-			"versionNonce": 43444959,
+			"version": 102,
+			"versionNonce": 1269299953,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1784456815662,
+			"updated": 1784456962884,
 			"link": null,
 			"locked": false,
 			"hasTextLink": false
@@ -92,10 +92,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 103.18662756421107,
-		"scrollY": 214.11310782861685,
+		"scrollX": 89.00012053344634,
+		"scrollY": 206.06567317550417,
 		"zoom": {
-			"value": 1.819563
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
