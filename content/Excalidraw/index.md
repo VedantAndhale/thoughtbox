@@ -1,3 +1,3 @@
 ---
-unlisted: "true"
+unlisted: true
 ---
