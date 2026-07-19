@@ -41,14 +41,6 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  # - source:
-  #     name: quartz-themes
-  #     repo: https://github.com/saberzero1/quartz-themes.git
-  #     subdir: plugin
-  #   enabled: true
-  #   options:
-  #     theme: github-theme
-  #     mode: both
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
@@ -58,25 +50,6 @@ plugins:
         - git
         - filesystem
     order: 10
-  - source: github:VingGit/root-index-panels
-    enabled: true
-    options:
-      layout: cards
-      showDescription: true
-      showDocCount: true
-      showTags: true
-      tagCount: 3
-      sort: alphabetical
-      excludeDirs: []
-      descriptionFallback: ""
-      defaultIcon: ""
-      defaultAccent: theme
-      accents: {}
-      replaceExplorer: true
-    layout:
-      position: left
-      priority: 40
-    order: 50
   - source: github:quartz-community/syntax-highlighting
     enabled: true
     options:
@@ -88,17 +61,7 @@ plugins:
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
-      comments: true
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: true
-      parseTags: true
-      parseArrows: true
-      parseBlockReferences: true
       enableInHtmlEmbed: false
-      enableYouTubeEmbed: true
-      enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
@@ -127,7 +90,7 @@ plugins:
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
-    enabled: true
+    enabled: false
     order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
@@ -285,20 +248,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
-  - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
 layout:
   groups:
     toolbar:
