@@ -47,7 +47,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: catppuccin.macchiato
+      theme: tokyo-night
       mode: both
   - source: github:quartz-community/created-modified-date
     enabled: true
