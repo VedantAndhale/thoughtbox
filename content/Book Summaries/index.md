@@ -5,8 +5,8 @@ created: 2026-07-19T13:55:57.085+05:30
 modified: 2026-07-19T15:07:06.871+05:30
 ---
 
-![[Drawing 2026-07-19 13.19.40.excalidraw]]
+[Drawing 2026-07-19 13.19.40.excalidraw.md](../Excalidraw/Drawing%202026-07-19%2013.19.40.excalidraw.md)
 |Book1|Notes|
 |---|---|
 |[[Book Summaries/The Pyramid Principal/index\|The Pyramid Principal]]|0|
-![[Drawing 2026-07-19 13.19.40.excalidraw|notitle]]
+[notitle](../Excalidraw/Drawing%202026-07-19%2013.19.40.excalidraw.md)
